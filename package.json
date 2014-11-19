@@ -1,0 +1,27 @@
+{
+  "name": "z-redis-cosher",
+  "version": "0.0.1",
+  "description": "z-redis-cosher",
+  "main": "lib/cosher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "z-lib": "*",
+    "z-lib-uuid": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zibx/z-redis-cosher.git"
+  },
+  "keywords": [
+    "redis",
+    "cache"
+  ],
+  "author": "Zibx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zibx/z-redis-cosher/issues"
+  },
+  "homepage": "https://github.com/Zibx/z-redis-cosher"
+}
