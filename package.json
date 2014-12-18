@@ -1,6 +1,6 @@
 {
   "name": "z-redis-cosher",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "z-redis-cosher",
   "main": "lib/cosher.js",
   "scripts": {
